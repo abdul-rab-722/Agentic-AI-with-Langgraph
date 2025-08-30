@@ -3,6 +3,7 @@ langgraph
 
 # LangChain Core
 langchain
+langchain_core
 
 # OpenAI Integration
 langchain-openai
