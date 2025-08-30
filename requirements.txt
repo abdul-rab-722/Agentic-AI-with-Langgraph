@@ -1,0 +1,11 @@
+# Langgraph
+langgraph
+
+# LangChain Core
+langchain
+
+# OpenAI Integration
+langchain-openai
+
+# dot environment variable
+dotenv
